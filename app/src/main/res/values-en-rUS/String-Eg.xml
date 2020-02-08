@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="title_home">Movie</string>
+    <string name="title_dashboard" translatable="false">TvShow</string>
+    <string name="title_menu_movies" tools:ignore="ExtraTranslation">Movies</string>
+    <string name="title_menu_tvshow" tools:ignore="ExtraTranslation">TV Show</string>
+    <string name="title_notifications" tools:ignore="MissingTranslation">Favorite</string>
+    <string name="title_activity_bottom_nav" tools:ignore="ExtraTranslation">bottom_nav</string>
+    <string name="change_language_settings" tools:ignore="ExtraTranslation">Change Language Settings</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalogue4</string>
+    <string name="title_activity_bottom_nav">bottom_nav</string>
+    <string name="title_menu_movies">Filim</string>
+    <string name="title_menu_tvshow">Acara Tv</string>
+    <string name="title_home">Home</string>
+    <string name="change_language_settings">konfigurasi bahasa</string>
+</resources>

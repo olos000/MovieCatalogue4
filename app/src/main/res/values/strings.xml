@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">MovieCatalogue4</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_activity_bottom_nav" tools:ignore="MissingTranslation">bottom_nav</string>
+    <string name="title_menu_movies">Movies</string>
+    <string name="title_menu_tvshow">TV Show</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="title_notifications" tools:ignore="MissingTranslation">Notifications</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="data_text" tools:ignore="MissingTranslation">Empty data</string>
+    <string name="favorite">Favorite</string>
+    <string name="change_language_setting">change_language_setting</string>
+    <string name="addfavorite">addfavorite</string>
+    <string name="photo">Photo</string>
+    <string name="hooo" tools:ignore="DuplicateDefinition" translatable="false">MyStackWidget</string>
+    <string name="appwidget_text" translatable="false">Movie Favorit</string>
+    <string name="empty_text" translatable="false">NO DATA</string>
+    <string name="empty_content" translatable="false">Empty Content</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="menu_1" translatable="false">Menu 1</string>
+    <string name="menu_2" translatable="false">Menu 2</string>
+
+
+
+</resources>

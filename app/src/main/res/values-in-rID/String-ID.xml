@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="title_home">Filim</string>
+    <string name="title_dashboard" translatable="false">Acara Tv</string>
+    <string name="title_activity_bottom_nav" tools:ignore="MissingTranslation">bottom_nav</string>
+    <string name="title_menu_movies">Filim</string>
+    <string name="title_menu_tvshow">Acara Tv</string>
+    <string name="change_language_settings">Konfigurasi Bahasa</string>
+    <string name="title_notifications" tools:ignore="MissingTranslation">Kesukaan</string>
+</resources>

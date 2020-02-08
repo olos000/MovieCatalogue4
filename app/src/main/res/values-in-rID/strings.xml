@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie">Filim</string>
+    <string name="tv_show">Acara Tv</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="change_language_setting">Konfigurasi Bahasa</string>
+    <string name="addfavorite">tambahkesukaan</string>
+    <string name="photo">Photo</string>
+</resources>

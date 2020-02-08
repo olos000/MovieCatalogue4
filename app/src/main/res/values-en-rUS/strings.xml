@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="favorite">Favorite</string>
+    <string name="change_language_setting">change_language_setting</string>
+    <string name="addfavorite">addfavorite</string>
+    <string name="photo">Photo</string>
+</resources>
